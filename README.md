@@ -38,6 +38,11 @@ user experience and system efficiency.
 - Contribute to open-source or research-driven development projects  
 
 **Find me here:**  
-• [💼 Portfolio](https://jungeui-website.vercel.app/) 
-• [🔗 LinkedIn](https://www.linkedin.com/in/jungeui1297/) 
-• 📄 Resume: [https://drive.google.com/file/https://drive.google.com/file/d/10i4TgLWT9Tlb3n4elvrE50YQOZ8DrijF/view?usp=sharing]
+- [💼 Portfolio](https://jungeui-website.vercel.app/)]
+- [🔗 LinkedIn](https://www.linkedin.com/in/jungeui1297/)]
+- 📄 Resume: [https://drive.google.com/file/https://drive.google.com/file/d/10i4TgLWT9Tlb3n4elvrE50YQOZ8DrijF/view?usp=sharing]
+
+---
+
+Thanks for visiting!
+Feel free to contact me!
