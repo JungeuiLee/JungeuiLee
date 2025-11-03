@@ -1,18 +1,20 @@
-# 👋 Hi, I'm Jungeui Lee  
-**Computer Science @ University of Minnesota - Twin Cities**  
-Building thoughtful, full-stack experiences — where design meets logic.
+# Hi, I'm Jungeui Lee 👋  
+
+I'm a **Computer Science student at the University of Minnesota – Twin Cities (UMN)**,  
+dedicated to building meaningful software that bridges design and logic.  
+I enjoy developing **full-stack web applications** and exploring the intersection between  
+user experience and system efficiency.  
 
 ---
 
-### 🧠 About Me  
-- 🎓 Junior majoring in **Computer Science** with interests in **frontend** and **full-stack development**  
-- 🌎 Studied and lived across **Korea 🇰🇷** and **the U.S. 🇺🇸**, learning to bridge cultures and ideas through technology  
-- 💻 Currently focused on improving my skills in **Next.js**, **TypeScript**, and **React**  
-- 🧩 I love turning ideas into clean, interactive experiences through code  
+### About Me  
+- Based in Minneapolis, MN  
+- Pursuing B.S. in **Computer Science @ UMN – Twin Cities**  
+- Interests: AL/ML, Full-Stack Development, Web Design, and System Optimization  
 
 ---
 
-### 🚀 Featured Projects  
+### Featured Projects  
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | [**Personal Portfolio Website**](https://your-vercel-link.vercel.app) | Interactive personal site with responsive design and scroll-triggered effects | Next.js, TypeScript, Tailwind CSS |
@@ -21,17 +23,19 @@ Building thoughtful, full-stack experiences — where design meets logic.
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages:** Python, C++, TypeScript, Java  
-**Frameworks:** Next.js, React, FastAPI, Tailwind CSS  
-**Tools:** Git, Vercel, PostgreSQL, VS Code, Figma  
+### Tech Stack  
+**Languages:** Python, C++, Java, TypeScript, JavaScript
+**Frameworks & Libraries:** Next.js, React, FastAPI, Tailwind CSS, Express.js  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Cloud & DevOps:** AWS, Vercel, GitHub Actions, Cloudflare  
+**Tools:** VS Code, Git, Linux, Figma  
 
 ---
 
-### 📈 Currently Learning  
-Next.js (App Router, SSR), TypeScript, and database design for scalable web apps.  
+### Current Goals  
+- Expand my portfolio with interactive, scalable web projects  
+- Learn backend integration patterns with **FastAPI** and **PostgreSQL**  
+- Contribute to open-source or research-driven development projects  
 
----
-
-📫 **Find me here:**  
-[💼 Portfolio](https://your-vercel-link.vercel.app) • [🔗 LinkedIn](https://www.linkedin.com/in/jungeui-lee-49b264356/) • [📧 Email](mailto:justicelee.dev@gmail.com)
+**Find me here:**  
+[💼 Portfolio](https://jungeui-website.vercel.app/) • [🔗 LinkedIn](https://www.linkedin.com/in/jungeui1297/) • 📄 Resume: [https://drive.google.com/file/https://drive.google.com/file/d/10i4TgLWT9Tlb3n4elvrE50YQOZ8DrijF/view?usp=sharing]
