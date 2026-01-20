@@ -17,9 +17,9 @@ user experience and system efficiency.
 ### Featured Projects  
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [**Personal Portfolio Website**](https://your-vercel-link.vercel.app) | Interactive personal site with responsive design and scroll-triggered effects | Next.js, TypeScript, Tailwind CSS |
-| [**GPU Image Editor**](https://github.com/your-repo) | Real-time image editor using C++ and OpenGL | C++, OpenGL, GLSL |
-| [**Online Clone Shop**](https://github.com/your-repo) | E-commerce-style web app showcasing responsive layouts | HTML, CSS, JavaScript |
+| [**Personal Portfolio Website**](https://jungeui-website.vercel.app/) | Interactive personal site with responsive design and scroll-triggered effects | Next.js, TypeScript, Tailwind CSS |
+| [**GPU Image Editor**](https://github.com/JungeuiLee/GPU_Image_Editor.git) | Real-time image editor using C++ and OpenGL | C++, OpenGL, GLSL |
+| [**Online Clone Shop**](https://github.com/JungeuiLee/randonWalk-clone.git) | E-commerce-style web app showcasing responsive layouts | HTML, CSS, JavaScript |
 
 ---
 
@@ -40,7 +40,7 @@ user experience and system efficiency.
 **Find me here:**  
 - [💼 Portfolio](https://jungeui-website.vercel.app/)]
 - [🔗 LinkedIn](https://www.linkedin.com/in/jungeui1297/)]
-- 📄 Resume: [https://drive.google.com/file/https://drive.google.com/file/d/10i4TgLWT9Tlb3n4elvrE50YQOZ8DrijF/view?usp=sharing]
+- 📄 Resume: [https://drive.google.com/file/d/1bVvUZXHKwWuzKdwxTaWV3kQDEdHcimWN/view?usp=drive_link]
 
 ---
 
